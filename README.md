@@ -1,5 +1,5 @@
 # VideoCompress
-A Telegram Video Compressor Bot By [Mayank Rajput](https://t.me/hackelite01). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [ARNAV SHARMA](https://t.me/ARN4V_15). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -9,14 +9,14 @@ A Telegram Video Compressor Bot By [Mayank Rajput](https://t.me/hackelite01). **
 	- Can Ban-Unban Manually
 	- Can see numbers users in DB
 
-* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/hackelite01).
+* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/HACKERWORLD69CHATS).
 
 
 ## Easy Deploy:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arn4vz/VideoCompressorBot)
 
 ### Support Group:
-<a href="https://t.me/hackelite01"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="[https://t.me/Hackerworld69chats]"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
@@ -26,10 +26,10 @@ A Telegram Video Compressor Bot By [Mayank Rajput](https://t.me/hackelite01). **
 * `APP_ID` - Get this from my.telegram.org
 * `API_HASH` - Get this from my.telegram.org
 * `DATABASE_URL` - Your MongoDB Database URL.
-* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/hackelite01/VideoCompressorBot#admin-commands).
+* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/arn4vz/VideoCompressorBot#admin-commands).
 
 ## Optional Configs:
-* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/hackelite01).
+* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/hackerworld69chats).
 * `COMMAND_EXEC` - `/exec` Command Handler.
 * `COMMAND_STATUS` - `/status` Command Handler.
 * `COMMAND_CANCEL` - `/cancel` Command Handler.
