@@ -43,7 +43,7 @@ async def help_message_f(client, message):
             user = await client.get_chat_member(update_channel, message.chat.id)
             if user.status == "kicked":
                await message.reply_text(
-                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/hackelite01).",
+                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Hackerworld69).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
@@ -54,7 +54,7 @@ async def help_message_f(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("Join Updates Channel", url=f"https://t.me/{update_channel}")
+                            InlineKeyboardButton("Join Updates Channel", url=f"https://t.me/Hackerworld69")
                         ]
                     ]
                 ),
@@ -74,14 +74,14 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/hackelitebotlist')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/hackerworld69')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='https://t.me/hackelite01')
+                    InlineKeyboardButton('Support Group', url='https://t.me/hackerworld69chats')
                 ],
                 [
-                    InlineKeyboardButton('Developer', url='https://t.me/mayank1rajput'), # Bloody Thief, Don't Become a Developer by Stealing other's Codes & Hard Works!
-                    InlineKeyboardButton('Source Code', url='https://github.com/hackelite01/VideoCompressorBot') # Must Give us Credits!
+                    InlineKeyboardButton('Developer', url='https://t.me/ARN4V_15'), # Bloody Thief, Don't Become a Developer by Stealing other's Codes & Hard Works!
+                    InlineKeyboardButton('Instagram', url='https://instagram.com/sincrypt.arn4vz') # Must Give us Credits!
                 ]
             ]
         ),
