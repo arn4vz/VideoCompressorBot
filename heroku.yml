@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+    worker: Randomnamehere
 run:
   worker: bash start.sh
