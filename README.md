@@ -57,10 +57,10 @@ exec - EXEC 🙄
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/hackelite01"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/arn4vz"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 
 
 # Join Us on Telegram
 
-<a href="https://t.me/hackelite01"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="190" height="28"></a>
+<a href="https://t.me/hackerworld69chats"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" width="190" height="28"></a>
